@@ -1,0 +1,212 @@
+[
+  {
+    "category": "Harry Potter",
+    "difficulty": "easy",
+    "question": "What house is Harry Potter sorted into?",
+    "options": ["Slytherin", "Gryffindor", "Ravenclaw", "Hufflepuff"],
+    "answer": "Gryffindor"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "easy",
+    "question": "What is the name of Harry Potter's owl?",
+    "options": ["Crookshanks", "Hedwig", "Scabbers", "Errol"],
+    "answer": "Hedwig"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "easy",
+    "question": "Who is Harry Potter's best friend?",
+    "options": ["Draco Malfoy", "Cedric Diggory", "Ron Weasley", "Neville Longbottom"],
+    "answer": "Ron Weasley"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "medium",
+    "question": "Who is the Half-Blood Prince?",
+    "options": ["Harry Potter", "Severus Snape", "Draco Malfoy", "Tom Riddle"],
+    "answer": "Severus Snape"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "medium",
+    "question": "What position does Harry play in Quidditch?",
+    "options": ["Keeper", "Seeker", "Beater", "Chaser"],
+    "answer": "Seeker"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "medium",
+    "question": "Which spell is used to disarm an opponent?",
+    "options": ["Avada Kedavra", "Lumos", "Expelliarmus", "Obliviate"],
+    "answer": "Expelliarmus"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "hard",
+    "question": "What is Voldemort's real name?",
+    "options": ["Tom Marvolo Riddle", "Severus Snape", "Lucius Malfoy", "Igor Karkaroff"],
+    "answer": "Tom Marvolo Riddle"
+  },
+  {
+    "category": "Harry Potter",
+    "difficulty": "hard",
+    "question": "Who destroyed Helga Hufflepuff's cup?",
+    "options": ["Ron Weasley", "Harry Potter", "Hermione Granger", "Neville Longbottom"],
+    "answer": "Hermione Granger"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "easy",
+    "question": "What is Tony Stark's superhero name?",
+    "options": ["Captain America", "Iron Man", "Thor", "Hulk"],
+    "answer": "Iron Man"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "easy",
+    "question": "What is Captain America's shield made of?",
+    "options": ["Adamantium", "Steel", "Vibranium", "Titanium"],
+    "answer": "Vibranium"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "easy",
+    "question": "Who is Thor's brother?",
+    "options": ["Loki", "Odin", "Heimdall", "Thanos"],
+    "answer": "Loki"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "medium",
+    "question": "Which Infinity Stone is in Vision's forehead?",
+    "options": ["Time Stone", "Mind Stone", "Power Stone", "Soul Stone"],
+    "answer": "Mind Stone"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "medium",
+    "question": "Who is Peter Parker?",
+    "options": ["Doctor Strange", "Spider-Man", "Hawkeye", "Falcon"],
+    "answer": "Spider-Man"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "medium",
+    "question": "Who leads the Guardians of the Galaxy?",
+    "options": ["Rocket", "Drax", "Star-Lord", "Groot"],
+    "answer": "Star-Lord"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "hard",
+    "question": "What is Natasha Romanoff's superhero name?",
+    "options": ["Scarlet Witch", "Black Widow", "Gamora", "Wasp"],
+    "answer": "Black Widow"
+  },
+  {
+    "category": "Marvel",
+    "difficulty": "hard",
+    "question": "Who created Ultron?",
+    "options": ["Bruce Banner", "Tony Stark", "Thor", "Nick Fury"],
+    "answer": "Tony Stark"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "easy",
+    "question": "What is Eleven's favorite food?",
+    "options": ["Pizza", "Waffles", "Burger", "Pancakes"],
+    "answer": "Waffles"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "easy",
+    "question": "What town does Stranger Things take place in?",
+    "options": ["Riverdale", "Hawkins", "Sunnydale", "Hill Valley"],
+    "answer": "Hawkins"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "easy",
+    "question": "Who disappears in Season 1?",
+    "options": ["Mike", "Lucas", "Will", "Dustin"],
+    "answer": "Will"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "medium",
+    "question": "What is the alternate dimension called?",
+    "options": ["The Shadow Realm", "The Upside Down", "Dark Zone", "The Void"],
+    "answer": "The Upside Down"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "medium",
+    "question": "Who is Eleven's adoptive father?",
+    "options": ["Joyce", "Hopper", "Steve", "Billy"],
+    "answer": "Hopper"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "medium",
+    "question": "What creature hunts the kids in Season 1?",
+    "options": ["Mind Flayer", "Demogorgon", "Vecna", "Zombie"],
+    "answer": "Demogorgon"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "hard",
+    "question": "Who becomes possessed by the Mind Flayer?",
+    "options": ["Mike", "Will", "Steve", "Dustin"],
+    "answer": "Will"
+  },
+  {
+    "category": "Stranger Things",
+    "difficulty": "hard",
+    "question": "What is Vecna's real name?",
+    "options": ["Billy", "Henry Creel", "Eddie Munson", "Jason"],
+    "answer": "Henry Creel"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "easy",
+    "question": "Who wants to become Hokage in Naruto?",
+    "options": ["Sasuke", "Naruto", "Kakashi", "Gaara"],
+    "answer": "Naruto"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "easy",
+    "question": "Who is the captain of the Straw Hat Pirates?",
+    "options": ["Zoro", "Luffy", "Sanji", "Ace"],
+    "answer": "Luffy"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "medium",
+    "question": "What is Light Yagami's notebook called?",
+    "options": ["Dark Book", "Death Note", "Soul Journal", "Shadow Book"],
+    "answer": "Death Note"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "medium",
+    "question": "Who is known as the strongest sorcerer in Jujutsu Kaisen?",
+    "options": ["Geto", "Gojo", "Sukuna", "Nanami"],
+    "answer": "Gojo"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "hard",
+    "question": "What is Eren Yeager's Titan form called?",
+    "options": ["Armored Titan", "Attack Titan", "Beast Titan", "Jaw Titan"],
+    "answer": "Attack Titan"
+  },
+  {
+    "category": "Anime",
+    "difficulty": "hard",
+    "question": "Who killed Kira in Death Note?",
+    "options": ["L", "Near", "Misa", "Ryuk"],
+    "answer": "Near"
+  }
+]
